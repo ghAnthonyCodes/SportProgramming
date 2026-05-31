@@ -2,7 +2,7 @@
 Just a place to put all my solves.
 
 - LeetCode: 43 solves
-- CodeWards: 794 solves
+- CodeWars: 794 solves
 - UVAJudge: 87 solves
 - TopCoder: 26 solves
 - CodeChef: 25 solves (had hundreds on old lost account)
